@@ -7,14 +7,14 @@ export default function Hero() {
       <div className="mx-auto max-w-6xl px-4 py-24 text-center">
         <div className="mx-auto inline-flex items-center gap-2 rounded-full border border-indigo-200 bg-indigo-50 px-4 py-1 text-xs font-medium text-indigo-700">
           <Sparkles className="h-4 w-4" />
-          Fresh Start
+          Welcome, Ajay
           <span className="ml-2 rounded-full bg-indigo-600 px-2 py-0.5 text-white">v1</span>
         </div>
         <h1 className="mt-6 text-4xl font-extrabold tracking-tight text-zinc-900 sm:text-6xl">
-          Hello, World!
+          Hello, Ajay!
         </h1>
         <p className="mx-auto mt-4 max-w-2xl text-base text-zinc-600 sm:text-lg">
-          A clean, modern starter to say hello to the web. Crafted with React and Tailwind for a beautiful first impression.
+          A clean, modern starter tailored for you. Crafted with React and Tailwind for a beautiful first impression.
         </p>
         <div className="mt-8 flex items-center justify-center gap-3">
           <a
